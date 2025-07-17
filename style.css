@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 20px; }
+#login-screen, #admin-dashboard { max-width: 500px; margin: auto; background: #fff; padding: 20px; border-radius: 8px; }
+input, button { display: block; width: 100%; margin: 10px 0; padding: 10px; }
+button { background: #007bff; color: #fff; border: none; cursor: pointer; }
+button:hover { background: #0056b3; }
+#appsList { margin-top: 20px; }
+.app-card { background: #e9ecef; padding: 10px; margin-bottom: 10px; border-radius: 5px; }
+.app-card button { margin-top: 5px; background: #dc3545; }
+.app-card button.edit { background: #28a745; margin-right: 5px; }
